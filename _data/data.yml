@@ -13,7 +13,7 @@ sidebar:
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: shawrupa.proshasty [at] transunion.com
+    email: shawrupa.proshasty@transunion.com
     timezone: EST # Enter your timezone, e.g., America/Havana, Africa/Casablanca, America/North_Dakota/Center
     website: https://example.com/ # Include the full website URL, including "http://" or "https://".
     linkedin: spprosha
@@ -43,21 +43,21 @@ sidebar:
 
 career-profile:
     title: Career Summary
-    summary: I like to apply rigorous analytical methods to solve complex problems. I have experience in data analysis, machine learning, and statistical modeling. I am proficient in R, Python, and SQL. 
+    summary: I am interested in applying rigorous statistical analysis on real-life data to solve complex problems. I have experience in data analysis, machine learning, and statistical modeling. I am proficient in R, Python, and SQL. 
 education:
     title: Education
     info:
       - degree: Bachelors of Mathematics, Honours Statistics
         university: University of Waterloo
         time: 2017 - 2021
-        details: |
-          Describe your study here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-          sociis natoque penatibus et magnis dis parturient montes, nascetur
-          ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-          pretium quis, sem.
-            - Bullet point
-            - Bullet point
+        #details: |
+          # Describe your study here lorem ipsum dolor sit amet, consectetuer
+          # adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
+          # sociis natoque penatibus et magnis dis parturient montes, nascetur
+          # ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
+          # pretium quis, sem.
+          #   - Bullet point
+          #   - Bullet point
 
 experiences:
     title: Experiences
@@ -65,18 +65,18 @@ experiences:
       - role: Analyst, Data Science & Analytics
         time: 2022 - Present
         company: TransUnion Canada
-        details: |
-          Describe your role here
-            - Bullet point
-            - Bullet point
-            - Bullet point
+        # details: |
+        #   Describe your role here
+        #     - Bullet point
+        #     - Bullet point
+        #     - Bullet point
       - role: Advanced Analytics Intern
         time: 2021 - 2021
         company: Definity Financial Corp
-        details: |
-          Describe your role here 
-            - Bullet point
-            - Bullet point
+        # details: |
+        #   Describe your role here 
+        #     - Bullet point
+        #     - Bullet point
       
 
 # certifications:
@@ -192,5 +192,7 @@ skills:
       - name: SQL
         level: 100%
 
+      - name: Tableau
+        level: 90%
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
