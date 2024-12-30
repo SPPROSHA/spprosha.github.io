@@ -15,7 +15,7 @@ sidebar:
     # Sidebar links
     email: shawrupa.proshasty@transunion.com
     timezone: EST # Enter your timezone, e.g., America/Havana, Africa/Casablanca, America/North_Dakota/Center
-    website: https://example.com/ # Include the full website URL, including "http://" or "https://".
+    website: https://spprosha.github.io/ # Include the full website URL, including "http://" or "https://".
     linkedin: spprosha
     github: spprosha
 
@@ -130,9 +130,9 @@ projects:
         link: "#hook"
         tagline: "An R-package that implements a simple decision tree classifier."
 
-      - title: Data Analysis
-        link: "#"
-        tagline: "Some data analysis project."
+      # - title: Data Analysis
+      #   link: "#"
+      #   tagline: "Some data analysis project."
 
       - title: Conway's Game of Life
         link: "#"
