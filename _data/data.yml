@@ -122,9 +122,7 @@ experiences:
 
 projects:
     title: Personal Projects
-    intro: >
-      You can list your side projects in this
-      section. 
+    intro:
     assignments:
       - title: DTree
         link: "#hook"
